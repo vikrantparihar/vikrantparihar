@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/main/Your%20paragraph%20text.png" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Vikrant Singh Parihar</h1>
 
 <h3 align="center">
