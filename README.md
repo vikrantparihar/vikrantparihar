@@ -122,3 +122,19 @@ https://linkedin.com/in/vikrant-singh-parihar-80483b222/
 
 💻 GitHub:
 https://github.com/vikrantparihar
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikrantparihar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikrantparihar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantparihar&layout=compact&theme=tokyonight" />
+</p>
