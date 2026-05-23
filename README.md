@@ -154,45 +154,6 @@ Conversational AI chatbot for financial analytics, portfolio exploration & fund 
 Python • Pandas • AI Workflows
 
 ---
-
-# 💼 Experience
-
-## AI Engineer — SME Solutions, Inc. (via Deel)
-📅 Feb 2026 – Present
-
-- Enhanced model response accuracy by 15–20%
-- Evaluated 1000+ AI-generated outputs
-- Worked with OpenAI APIs & LangChain
-
----
-
-## AI Engineer — TELUS Digital
-📅 Nov 2025 – Feb 2026
-
-- Built FastAPI backend systems
-- Designed scalable AI workflows
-- Reduced manual review effort by 35%
-
----
-
-## AI Trainer — Google Gemini Project @ Invisible Technologies
-📅 Mar 2024 – Mar 2025
-
-- Developed LLM evaluation pipelines
-- Processed 50K+ datasets
-- Improved workflow efficiency by 30%
-
----
-
-## Freelance Software Developer — Outlier AI
-📅 Jan 2025 – Jul 2025
-
-- Developed realtime full-stack applications
-- Built scalable APIs
-- Improved performance & system stability
-
----
-
 # 🏆 Certifications
 
 - Oracle Cloud Infrastructure 2025 Generative AI Professional
