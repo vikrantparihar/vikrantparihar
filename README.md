@@ -1,16 +1,119 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikrant Singh Parihar</h1>
 
-<!--
-**vikrantparihar/vikrantparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer | Generative AI | LLMs | Backend Engineer | AI Agents
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable AI systems, RAG pipelines, realtime AI workflows & production-ready backend architectures.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🔭 Building AI Agents, Voice AI & RAG Systems
+- 🌱 Exploring Multi-Agent Workflows & Distributed AI Systems
+- 💡 Experienced in Generative AI, LLM Evaluation & Backend Engineering
+- ⚡ Skilled in FastAPI, LangChain, OpenAI APIs, React & scalable architectures
+- 🎯 Focused on production-grade AI systems & automation workflows
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+Python • JavaScript • SQL • Java • C++
+
+## Backend
+FastAPI • Flask • Node.js • REST APIs • WebSockets
+
+## AI/ML
+LLMs • LangChain • RAG • Prompt Engineering • NLP • OpenAI API • Gemini API
+
+## Databases
+MongoDB • PostgreSQL • SQLite • Redis
+
+## Cloud & DevOps
+Docker • CI/CD • OCI • Azure
+
+---
+
+# 🚀 Featured Projects
+
+## 🎙 Realtime Voice AI Agent
+
+Production-ready realtime conversational AI voice agent with:
+- STT/TTS integration
+- WebSocket streaming
+- Tool calling
+- Stateful memory orchestration
+
+Tech:
+Python • FastAPI • WebSockets • LLM APIs
+
+---
+
+## 📄 RAG Resume Matcher
+
+AI-powered resume matcher using Retrieval-Augmented Generation (RAG) for semantic job matching and skill-gap analysis.
+
+Tech:
+LangChain • Vector DB • Streamlit • Python
+
+---
+
+## 🩸 AI Blood Report Analyzer
+
+Automated AI-powered blood report analysis platform leveraging AI agents and scalable backend workflows.
+
+Tech:
+FastAPI • Celery • Python
+
+---
+
+## 💰 AI Financial Assistant
+
+Conversational AI chatbot for financial data analytics and portfolio insights.
+
+Tech:
+Python • Pandas • AI Workflows
+
+---
+
+# 💼 Experience
+
+- AI Engineer — SME Solutions (via Deel)
+- AI Engineer — TELUS Digital
+- AI Trainer — Google Gemini Project @ Invisible Technologies
+- Freelance Software Developer — Outlier AI
+
+---
+
+# 🏆 Certifications
+
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Blockchain Development & Smart Contract Programming
+- Software Testing — NPTEL
+
+---
+
+# 🔥 Currently Working On
+
+- AI Agents
+- Voice AI Systems
+- Multi-Agent Workflows
+- Scalable RAG Architectures
+- AI Automation Platforms
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: pariharvikranr2000@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/vikrant-singh-parihar-80483b222/
+
+💻 GitHub:
+https://github.com/vikrantparihar
