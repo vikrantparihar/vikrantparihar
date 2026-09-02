@@ -121,7 +121,7 @@ Engineering
 * NLP
 * RAG
 * AI Agents
-* LLM benchmarking
+* LLM Benchmarking
 * OpenAI APIs
 * Gemini APIs
 * LangChain
@@ -203,7 +203,7 @@ TTS
 Audio Response
 ```
 
-Focus areas:
+**Focus areas:**
 
 * Realtime communication
 * Stateful workflows
@@ -240,7 +240,7 @@ Implemented deterministic data processing including:
 * Output verification
 * Reproducible execution
 
-### Engineering workflow
+### Engineering Workflow
 
 ```text
 Raw Data
@@ -268,7 +268,7 @@ The focus was on producing **repeatable, verifiable and testable outputs** rathe
 
 **Automated document-processing backend**
 
-Tech:
+### Tech
 
 * FastAPI
 * Python
@@ -277,7 +277,7 @@ Tech:
 * REST APIs
 * Document Processing
 
-Highlights:
+### Highlights
 
 * Automated blood-report processing
 * Reduced manual processing by approximately **70%**
@@ -292,16 +292,16 @@ The project focuses on reliable backend processing and asynchronous task executi
 
 **AI-powered resume and job matching system**
 
-Tech:
+### Tech
 
 * Python
 * RAG
 * LLMs
 * Embeddings
 * NLP
-* AI evaluation
+* AI Evaluation
 
-Capabilities:
+### Capabilities
 
 * Resume parsing
 * Job-description analysis
@@ -315,7 +315,7 @@ Capabilities:
 
 **AI-powered financial data analysis workflow**
 
-Tech:
+### Tech
 
 * Python
 * Pandas
@@ -331,7 +331,7 @@ Designed to convert structured financial information into useful conversational 
 
 **Scalable HR management backend and frontend**
 
-Tech:
+### Tech
 
 * React.js
 * FastAPI
@@ -339,7 +339,7 @@ Tech:
 * REST APIs
 * Authentication
 
-Key engineering areas:
+### Key Engineering Areas
 
 * Modular backend architecture
 * Secure authentication
@@ -494,7 +494,7 @@ I focus my public repositories around practical engineering problems involving:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantparihar&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantparihar&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -504,13 +504,26 @@ I focus my public repositories around practical engineering problems involving:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-# ⚡ GitHub Metrics
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -530,9 +543,11 @@ I'm interested in opportunities involving:
   <a href="https://www.linkedin.com/in/vikrant-singh-parihar-80483b222/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:pariharvikranr2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/vikrantparihar">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
@@ -546,6 +561,7 @@ I'm interested in opportunities involving:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
+
