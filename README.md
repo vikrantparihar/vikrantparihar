@@ -1,205 +1,507 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/main/Your%20paragraph%20text.png" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vikrant Singh Parihar</h1>
+# 👋 Hi, I'm Vikrant Singh Parihar
 
-<h3 align="center">
-AI Engineer | Generative AI | LLMs | Backend Engineer | AI Agents
-</h3>
+### Software Engineer | Backend & Dev Infrastructure | AI Systems
 
-<p align="center">
-Building scalable AI systems, RAG pipelines, realtime AI workflows & production-ready backend architectures.
-</p>
+**Building scalable backend systems, data pipelines, AI infrastructure, and production-ready automation.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;LLM+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+LangChain+%7C+OpenAI;Building+Production-Ready+AI+Systems" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vikrant-singh-parihar-80483b222">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:pariharvikranr2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-
+<p>
   <a href="https://github.com/vikrantparihar">
-    <img src="https://img.shields.io/github/followers/vikrantparihar?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-vikrantparihar-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vikrant-singh-parihar-80483b222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikrant%20Singh%20Parihar-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pariharvikranr2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-# 🚀 About Me
-
-- 🔭 Building AI Agents, Voice AI & RAG Systems
-- 🌱 Exploring Multi-Agent Workflows & Distributed AI Systems
-- 💡 Experienced in Generative AI, LLM Evaluation & Backend Engineering
-- ⚡ Skilled in FastAPI, LangChain, OpenAI APIs, React & scalable architectures
-- 🎯 Focused on production-grade AI systems & automation workflows
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-## Languages
+I'm a **Software Engineer / AI Engineer** focused on building reliable backend systems, data-intensive workflows, AI evaluation infrastructure, and production automation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
+My work combines:
 
----
+* 🧠 **Generative AI & LLM evaluation**
+* ⚙️ **Backend engineering & REST APIs**
+* 🔄 **Data pipelines & deterministic processing**
+* 🧪 **Automated testing & validation**
+* 🐳 **Containerized and reproducible environments**
+* 📊 **Data quality & benchmark verification**
+* 🤖 **AI agents & workflow automation**
+* ⚡ **Performance optimization & scalable systems**
+* 🔗 **Distributed and service-oriented architectures**
 
-## Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-orange?style=for-the-badge)
+I enjoy turning complex workflows into **reliable, testable, maintainable engineering systems**.
 
 ---
 
-## AI / ML
+## 🏗️ What I Build
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-darkgreen?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-darkred?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-black?style=for-the-badge)
+```text
+AI Systems
+    │
+    ├── LLM Evaluation
+    ├── AI Agents
+    ├── RAG Pipelines
+    └── Automated AI Workflows
+
+Backend Systems
+    │
+    ├── REST APIs
+    ├── Microservices
+    ├── WebSockets
+    └── Background Processing
+
+Data & Infrastructure
+    │
+    ├── Data Pipelines
+    ├── Entity Resolution
+    ├── Data Validation
+    ├── Reproducible Execution
+    └── Automated Quality Gates
+
+Engineering
+    │
+    ├── Testing
+    ├── CI/CD
+    ├── Docker
+    ├── Performance Optimization
+    └── Production Automation
+```
 
 ---
 
-## Databases
+# 💻 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash,sql" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+* RESTful APIs
+* Microservices
+* WebSockets
+* Backend architecture
+* API integration
+* Async/background processing
+* Performance optimization
+
+### AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Generative AI
+* LLM Evaluation
+* Prompt Engineering
+* AI Agent Evaluation
+* NLP
+* RAG
+* AI Agents
+* LLM benchmarking
+* OpenAI APIs
+* Gemini APIs
+* LangChain
+* LangGraph
+
+### Data & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" />
+</p>
+
+* Data Engineering
+* Data Pipelines
+* Data Validation
+* Data Quality
+* Entity Resolution
+* Canonicalization
+* Feature Engineering
+* Rolling-window Aggregations
+* Pandas
+* PyArrow
+* SQL
+
+### DevOps & Engineering Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git" />
+</p>
+
+* Docker
+* CI/CD
+* GitHub Actions
+* Reproducible Environments
+* Automated Testing
+* Quality Gates
+* Containerized Execution
+* Output Verification
+* Git / GitHub
 
 ---
 
-## Cloud & DevOps
+# ⭐ Featured Projects
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-red?style=for-the-badge&logo=oracle)
+## 🔊 Realtime Voice AI Agent
+
+**Production-oriented realtime conversational AI system**
+
+Built a realtime voice architecture using:
+
+* Python
+* FastAPI
+* WebSockets
+* STT / TTS
+* OpenAI APIs
+* Stateful conversation memory
+* Tool calling
+* Workflow orchestration
+* Session management
+
+### Architecture
+
+```text
+Audio Input
+     ↓
+Streaming STT
+     ↓
+Transcript Processing
+     ↓
+Entity / Intent Extraction
+     ↓
+Validation
+     ↓
+Conversation State
+     ↓
+AI / Tool Execution
+     ↓
+TTS
+     ↓
+Audio Response
+```
+
+Focus areas:
+
+* Realtime communication
+* Stateful workflows
+* Session memory
+* Failure handling
+* Tool orchestration
+* Low-latency interaction
 
 ---
 
-# 🚀 Featured Projects
+## 🧪 AI Benchmarking & Data Engineering
 
-## 🎙 Realtime Voice AI Agent
+**Deterministic AI benchmark and data-processing infrastructure**
 
-Production-grade realtime conversational AI voice agent with:
-- STT/TTS integration
-- WebSocket streaming
-- Stateful conversation memory
-- Tool calling support
-- AI workflow orchestration
+Designed production-style benchmark workflows involving:
 
-### Tech Stack
-Python • FastAPI • WebSockets • OpenAI APIs
+* Python
+* Pandas
+* PyArrow
+* PyTest
+* Docker
+* GitHub
+* CI/CD
+* Automated validation
+
+Implemented deterministic data processing including:
+
+* Entity resolution
+* Canonicalization
+* Deduplication
+* Feature engineering
+* Rolling-window aggregations
+* Feature metadata
+* Output verification
+* Reproducible execution
+
+### Engineering workflow
+
+```text
+Raw Data
+   ↓
+Canonicalization
+   ↓
+Deduplication
+   ↓
+Entity Resolution
+   ↓
+Feature Engineering
+   ↓
+Validation
+   ↓
+Deterministic Output
+   ↓
+Automated Quality Gate
+```
+
+The focus was on producing **repeatable, verifiable and testable outputs** rather than one-off data transformations.
+
+---
+
+## 🩸 AI Blood Test Analysis System
+
+**Automated document-processing backend**
+
+Tech:
+
+* FastAPI
+* Python
+* Celery
+* Background Processing
+* REST APIs
+* Document Processing
+
+Highlights:
+
+* Automated blood-report processing
+* Reduced manual processing by approximately **70%**
+* Processed **1000+ records**
+* Improved background-task efficiency by approximately **20%**
+
+The project focuses on reliable backend processing and asynchronous task execution.
 
 ---
 
 ## 📄 RAG Resume Matcher
 
-AI-powered resume matcher leveraging Retrieval-Augmented Generation (RAG) for semantic candidate-job matching and skill-gap analysis.
+**AI-powered resume and job matching system**
 
-### Features
-- Resume parsing
-- Semantic retrieval
-- AI-powered matching
-- Skill-gap analysis
+Tech:
 
-### Tech Stack
-LangChain • Vector DB • Streamlit • Python
+* Python
+* RAG
+* LLMs
+* Embeddings
+* NLP
+* AI evaluation
 
----
+Capabilities:
 
-## 🩸 AI Blood Report Analyzer
-
-Automated AI-powered blood report analysis platform leveraging scalable backend workflows and asynchronous task processing.
-
-### Features
-- Automated document analysis
-- Background task processing
-- AI-driven medical insights
-- High-volume record handling
-
-### Tech Stack
-FastAPI • Celery • Python
+* Resume parsing
+* Job-description analysis
+* Semantic matching
+* Skill extraction
+* AI-assisted candidate evaluation
 
 ---
 
 ## 💰 AI Financial Assistant
 
-Conversational AI chatbot for financial analytics, portfolio exploration & fund analysis.
+**AI-powered financial data analysis workflow**
 
-### Features
-- Fund analysis
-- Portfolio insights
-- Rule-based validation
-- Financial data processing
+Tech:
 
-### Tech Stack
-Python • Pandas • AI Workflows
+* Python
+* Pandas
+* LLM APIs
+* Data processing
+* Natural-language interaction
+
+Designed to convert structured financial information into useful conversational insights.
 
 ---
+
+## 🏢 HRMS Full Stack System
+
+**Scalable HR management backend and frontend**
+
+Tech:
+
+* React.js
+* FastAPI
+* MongoDB
+* REST APIs
+* Authentication
+
+Key engineering areas:
+
+* Modular backend architecture
+* Secure authentication
+* RESTful API design
+* Database integration
+* API optimization
+* Frontend/backend integration
+
+---
+
+# 🧩 Engineering Focus
+
+I am particularly interested in engineering problems around:
+
+### Backend Engineering
+
+* API design
+* Microservices
+* Distributed systems
+* Async processing
+* Performance
+* Scalability
+* Reliability
+
+### Dev Infrastructure
+
+* Developer tooling
+* Automated validation
+* CI/CD
+* Reproducible environments
+* Benchmark infrastructure
+* Quality gates
+* Test automation
+
+### Data Engineering
+
+* ETL / data pipelines
+* Data quality
+* Entity resolution
+* Deduplication
+* Feature engineering
+* Deterministic processing
+* Large-scale data analysis
+
+### AI Infrastructure
+
+* LLM evaluation
+* AI benchmarking
+* Agent evaluation
+* RAG
+* AI workflow automation
+* Production AI systems
+
+---
+
+# 🔬 How I Approach Engineering Problems
+
+```text
+Understand the Problem
+        ↓
+Design the System
+        ↓
+Build Small & Testable Components
+        ↓
+Automate Validation
+        ↓
+Measure Results
+        ↓
+Optimize Performance
+        ↓
+Make Execution Reproducible
+        ↓
+Ship with Confidence
+```
+
+I care about systems that are:
+
+**Reliable • Testable • Maintainable • Scalable • Reproducible**
+
+---
+
+# 📈 Selected Impact
+
+| Area                   | Impact                                                   |
+| ---------------------- | -------------------------------------------------------- |
+| AI Benchmarking        | Deterministic & reproducible evaluation workflows        |
+| Data Engineering       | Entity resolution + canonicalization + feature pipelines |
+| AI Evaluation          | 50K+ records processed                                   |
+| Data Quality           | 98%+ quality maintained                                  |
+| Model Accuracy         | ~30% improvement                                         |
+| Backend Processing     | ~70% reduction in manual work                            |
+| API / Backend          | 500+ concurrent users supported in project work          |
+| Production Engineering | 50+ issues resolved                                      |
+| Product Delivery       | 12+ features shipped                                     |
+
+---
+
 # 🏆 Certifications
 
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Blockchain Development & Smart Contract Programming
-- Software Testing — NPTEL
+* **Oracle Cloud Infrastructure 2025 — Generative AI Professional**
+* **Software Testing — NPTEL**
+* **Blockchain Development & Smart Contract Programming — Internshala**
 
 ---
 
-# 🔥 Currently Working On
+# 🔭 Currently Working On
 
-- AI Agents
-- Voice AI Systems
-- Multi-Agent Workflows
-- Scalable RAG Architectures
-- AI Automation Platforms
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikrantparihar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vikrantparihar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantparihar&layout=compact&theme=tokyonight" />
-</p>
+* AI benchmarking infrastructure
+* Deterministic data pipelines
+* AI agent evaluation
+* Backend systems
+* Realtime AI workflows
+* Production-grade automation
+* Data quality and validation systems
 
 ---
 
-# 🌐 Connect With Me
+# 📌 Featured Repositories
 
-📧 Email: pariharvikranr2000@gmail.com
+I focus my public repositories around practical engineering problems involving:
 
-💼 LinkedIn:
-https://linkedin.com/in/vikrant-singh-parihar-80483b222/
+* AI systems
+* Backend APIs
+* Data processing
+* RAG
+* Realtime systems
+* Automation
+* Testing
+* Software engineering
 
-💻 GitHub:
-https://github.com/vikrantparihar
+👉 Check my pinned repositories below for implementation details and project code.
 
 ---
 
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikrantparihar&show_icons=true&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantparihar&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Software Engineering • Backend Engineering • Dev Infrastructure • AI Engineering • Data Engineering • AI Systems**
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrantparihar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/vikrant-singh-parihar-80483b222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pariharvikranr2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vikrantparihar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+### ⚡ Build systems. Automate workflows. Measure results. Ship reliably.
+
+</div>
