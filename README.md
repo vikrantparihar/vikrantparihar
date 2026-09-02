@@ -1,8 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vikrant%20Singh%20Parihar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
 # 👋 Hi, I'm Vikrant Singh Parihar
 
 ### Software Engineer | Backend & Dev Infrastructure | AI Systems
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Backend+%26+Dev+Infrastructure;AI+Engineer+%7C+Generative+AI+%7C+LLM+Systems;Building+Scalable+Backend+Systems;Data+Pipelines+%7C+AI+Benchmarking+%7C+Automation;Reliable+%7C+Testable+%7C+Maintainable+%7C+Reproducible" alt="Typing SVG" />
+</a>
 
 **Building scalable backend systems, data pipelines, AI infrastructure, and production-ready automation.**
 
@@ -17,6 +23,8 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=vikrantparihar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -470,11 +478,43 @@ I focus my public repositories around practical engineering problems involving:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikrantparihar&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikrantparihar&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="49%" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantparihar&layout=compact&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantparihar&layout=compact&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vikrantparihar&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantparihar&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vikrantparihar/vikrantparihar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# ⚡ GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vikrantparihar&theme=flat&no-frame=true&margin-w=10" width="100%" />
 
 </div>
 
@@ -503,5 +543,9 @@ I'm interested in opportunities involving:
 <div align="center">
 
 ### ⚡ Build systems. Automate workflows. Measure results. Ship reliably.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
