@@ -92,7 +92,7 @@ My strongest interests sit at the intersection of AI engineering + backend engin
 <td align="center"><h2>500+</h2><b>Concurrent Users</b></td>
 <td align="center"><h2>50+</h2><b>Issues Resolved</b></td>
 <td align="center"><h2>12+</h2><b>Features Shipped</b></td>
-<td align="center"><h2>1+ Year</h2><b>Engineering Experience</b></td>
+<td align="center"><h2>2+ Year</h2><b>Engineering Experience</b></td>
 </tr>
 </table>
 
