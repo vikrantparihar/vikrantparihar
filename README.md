@@ -52,6 +52,8 @@ Reliable · Testable · Observable · Reproducible · Maintainable
 
 My strongest interests sit at the intersection of AI engineering + backend engineering + data + developer infrastructure.
 
+🧠 Active contributor to GitLab’s Go-based infrastructure, including Gitaly and GitLab Runner.
+
 </td>
 <td width="42%" valign="top">
 
