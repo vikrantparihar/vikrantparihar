@@ -17,6 +17,9 @@
 <a href="mailto:pariharvikranr2000@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://gitlab.com/pariharvikranr2000">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
 <br/><br/>
 
